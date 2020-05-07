@@ -2,7 +2,7 @@
 
 ### Theme Name : Garden Theme
 
-To use this theme in wordpress, clone this repo https://github.com/Pearly-choong/wordpress-garden-theme.git inside your wordpress folder > wp-content > themes 
+To use this theme in wordpress, clone this repo https://github.com/Pearly-choong/wordpress-garden-theme.git  into your wordpress folder > wp-content > themes 
 
 After cloning, open wordpress site dashboard and go to Appearance -> Themes.
 
