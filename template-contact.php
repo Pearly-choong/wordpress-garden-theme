@@ -6,9 +6,9 @@ Template Name: Contact form
 
 <?php get_header('secondary'); ?>
 
-
+<section class="page-wrap">
 <div class="container">
-      <h1> <?php the_title(); ?>   </h1>
+     
       <div class="row">
 
         <div class="col">
@@ -25,5 +25,5 @@ Template Name: Contact form
 
 
 </div>
-
+</section>
 <?php get_footer('secondary'); ?>
